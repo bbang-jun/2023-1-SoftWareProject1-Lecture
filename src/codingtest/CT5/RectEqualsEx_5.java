@@ -1,3 +1,5 @@
+package codingtest.CT5;
+
 class Rect {
 	private int width;
 	private int height;
@@ -12,7 +14,7 @@ class Rect {
 	}
 }
 
-public class RectEqualsEx {
+public class RectEqualsEx_5 {
 	public static void main(String[] args) {
 		Rect a = new Rect(2,3);
 		Rect b = new Rect(3,2);

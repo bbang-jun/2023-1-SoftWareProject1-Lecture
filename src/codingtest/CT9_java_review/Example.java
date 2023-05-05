@@ -1,10 +1,9 @@
+package codingtest.CT9_java_review;
+
 import java.util.ArrayList;
 import java.util.Vector;
 import java.util.LinkedList;
 import java.util.Iterator;
-
-import codingtest.CT9_java_review.Person;
-import codingtest.CT9_java_review.Student;
 
 public class Example {
     public static void main(String[] args) {
@@ -16,7 +15,7 @@ public class Example {
                 ,{"Heung-Min Son", "30", "Male", "Football Player"},{"GilDong Hong", "17", "Male", "Student", "KW HighSchool"}
                 ,{"Jenny","27","Female","Singer"}, {"Dami Kim","28","Female","Actor"}};
 
-        for(int i = 0; i<6; i++) {
+        for(int i = 0; i < 6; i++) {
             try{
                 String Full_Name = InputList[i][0];
                 ArrayList<String> parsedName = NameParser(Full_Name);
