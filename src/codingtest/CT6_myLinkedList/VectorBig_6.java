@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class VectorBig {
+public class VectorBig_6 {
 	
 	public static void printBig(Vector<Integer> v) {  // 벡터 v의 정수 중 가장 큰 수 출력
 		int big = v.get(0); // 맨 처음에 있는 수를 제일 큰 수로 초기화

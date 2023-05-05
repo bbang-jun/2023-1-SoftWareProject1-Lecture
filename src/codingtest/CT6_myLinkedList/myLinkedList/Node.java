@@ -1,3 +1,5 @@
+package codingtest.CT6_myLinkedList.myLinkedList;
+
 public class Node {
     private Object data = null;
     private Node next = null;

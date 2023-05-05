@@ -1,4 +1,6 @@
-public class Myself {
+package codingtest.CT3;
+
+public class Myself_3 {
     public static void main(String[] args) {
 
         Person P1 = new Person("홍길동", 25, "개발자");

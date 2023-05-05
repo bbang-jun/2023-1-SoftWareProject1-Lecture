@@ -1,3 +1,5 @@
+package codingtest.CT6_myLinkedList.myLinkedList;
+
 public class LL_implement {
     public static void main(String[] args) {
         my_LL numbers = new my_LL();

@@ -1,3 +1,5 @@
+package codingtest.CT6_myLinkedList.myLinkedList;
+
 public class my_LL {
     private Node head = null;
     private Node tail = null;
